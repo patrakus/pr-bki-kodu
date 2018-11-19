@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(254): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(255): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(262): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(263): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(270): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(271): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(278): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(279): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(287): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(288): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(391): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(392): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(396): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(397): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(399): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(400): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\opengl projects\multiple lights\multiple lights\main.cpp(407): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Multiple lights.vcxproj -> c:\users\patryk\documents\visual studio 2015\Projects\OpenGL projects\Multiple lights\Debug\Multiple lights.exe
+  Multiple lights.vcxproj -> c:\users\patryk\documents\visual studio 2015\Projects\OpenGL projects\Multiple lights\Debug\Multiple lights.pdb (Partial PDB)
